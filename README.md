@@ -32,7 +32,8 @@ GH handle:  andrew-scoppa
 
 [Using GitHub Copilot Chat in your IDE](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide)
 
-[Tutorial: GitHub Copilot and VS Code](https://github.com/skills/copilot-codespaces-vscode)
+[GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+
 
 
 
