@@ -8,7 +8,7 @@ GH handle:  andrew-scoppa
 
 ## Workshops
 
-[Self Paced Exercises for GitHub Copilot](https://github.com/Atmosera-CoPilot-Dev/self-paced)
+[Self Paced Exercises for GitHub Copilot]([https://github.com/Atmosera-CoPilot-Dev/self-paced](https://github.com/Atmosera-CoPilot-Dev/self-paced/tree/main/cpp)
 
 ## GitHub Copilot CLI
 
