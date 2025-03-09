@@ -6,10 +6,6 @@ Email: andrew.scoppa@atmosera.com
 
 GH handle:  andrew-scoppa
 
-## Materials
-
-[GitHub-Copilot-Developer.pdf](https://github.com/user-attachments/files/18644776/en-v2-github-copilot-developer.pdf)
-
 ## Workshops
 
 [Self Paced Exercises for GitHub Copilot](https://github.com/Atmosera-CoPilot-Dev/self-paced)
