@@ -18,7 +18,3 @@ git pull origin main
 # Push changes to remote repository
 git push origin main
 
-# Echo a message to the console
-echo "Changes synchronized successfully!"
-
-# End of script

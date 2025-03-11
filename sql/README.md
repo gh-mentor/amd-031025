@@ -3,8 +3,9 @@ Requirements:
 - referential integrity is enforced
 - all tables have an 'id' column as the primary key (auto-incrementing)
 - all tables have a 'created_at' column to hold the timestamp of when the record was created
+- all tables have a 'updated_at' column to hold the timestamp of when the record was last updated
 Steps:
-0) create a file named 'inventory.sql' to hold the script, if one does not exist.
+0) create a file 'sql/inventory.sql' to hold the script, if one does not exist.
 1) Check if the database 'Inventory' exists, if it does exist, drop it and create a new one.
 2) Set the default database to 'Inventory'.
 3) Create a 'suppliers' table. Use the following columns:
